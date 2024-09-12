@@ -42,7 +42,6 @@ User Interface:
 * pip (Python package manager)
 * Install required libraries:
   
-            Bash
             pip install speech_recognition google-generativeai dotenv gtts streamlit
 
 2: Set Up Google API Key:
@@ -53,7 +52,7 @@ User Interface:
 * Open a terminal or command prompt and navigate to the project directory.
 * Run the script:
   
-            Bash
+
             python main.py
 
 4: Interact with the Assistant:
