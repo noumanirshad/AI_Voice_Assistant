@@ -41,9 +41,8 @@ User Interface:
 * Python 3.x
 * pip (Python package manager)
 * Install required libraries:
-Bash
-pip install speech_recognition google-generativeai dotenv gtts streamlit
-Use code with caution.
+            Bash
+            pip install speech_recognition google-generativeai dotenv gtts streamlit
 
 2: Set Up Google API Key:
 * Create a Google Cloud Project and enable the Google Generative AI API.
@@ -52,8 +51,8 @@ Use code with caution.
 3: Run the application:
 * Open a terminal or command prompt and navigate to the project directory.
 * Run the script:
-Bash
-python main.py
+            Bash
+            python main.py
 
 4: Interact with the Assistant:
 * Open http://localhost:8501/ in your web browser.
@@ -63,8 +62,8 @@ python main.py
 This is a basic description of the AI Voice Assistant. You can further enhance the project by adding features like:
 
 ## Multilingual Support: 
-             *  Enhance the application to support multiple languages.
+*  Enhance the application to support multiple languages.
 ## Contextual Awareness: 
-             * Allow the LLM to maintain conversation context for more natural interactions.
+* Allow the LLM to maintain conversation context for more natural interactions.
 ## Customizable Responses: 
-             * Allow users to configure response formats or integrate with other services.
+* Allow users to configure response formats or integrate with other services.
