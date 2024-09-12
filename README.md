@@ -41,6 +41,7 @@ User Interface:
 * Python 3.x
 * pip (Python package manager)
 * Install required libraries:
+  
             Bash
             pip install speech_recognition google-generativeai dotenv gtts streamlit
 
@@ -51,6 +52,7 @@ User Interface:
 3: Run the application:
 * Open a terminal or command prompt and navigate to the project directory.
 * Run the script:
+  
             Bash
             python main.py
 
